@@ -264,7 +264,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Reset canvas", "重置画布"),
         ("No permission of file transfer", "没有文件传输权限"),
         ("Note", "备注"),
-        ("Connection", "连接改"),
+        ("Connection", "连接"),
         ("Share screen", "共享屏幕"),
         ("Chat", "聊天消息"),
         ("Total", "总计"),
