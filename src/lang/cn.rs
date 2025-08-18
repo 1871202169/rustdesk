@@ -15,7 +15,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("not_ready_status", "未就绪，请检查网络连接"),
         ("Control Remote Desktop", "控制远程桌面"),
         ("Transfer file", "传输文件"),
-        ("Connect", "连接"),
+        ("Connect", "改连接"),
         ("Recent sessions", "最近访问过"),
         ("Address book", "地址簿"),
         ("Confirmation", "确认"),
